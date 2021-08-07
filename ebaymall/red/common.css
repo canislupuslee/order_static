@@ -1,0 +1,21 @@
+.message_block[data-v-7aa9ea5a] {
+  width: 90%;
+  height: 55vh;
+  margin-top: 2.666667rem;
+  border-radius: .266667rem;
+  /*! autoprefixer: off */
+  background: url() 2rem no-repeat, -webkit-gradient(linear, left top, left bottom, from(#e05454), color-stop(60%, #fff));
+  background: url() 2rem no-repeat, linear-gradient(top,#e05454, #fff 60%)
+}
+
+.color_style_invite {
+  background: #e86e39;
+}
+
+.text-style-color {
+  color: #da0f00 !important;
+}
+
+.button-style-color {
+  background: #da0f00 !important;
+}
